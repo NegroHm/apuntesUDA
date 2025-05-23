@@ -1,2 +1,3 @@
-# APUNTES UTN FRM
-Basados en el repo https://github.com/gbti-network/nextjs-google-drive-directory, hicimos una versión para poder encontrar los apuntes más de una manera más fácil
+![UDA](https://www.uda.edu.ar/images/2017/05/19/logo-tablet-06.png)
+# APUNTES UDA
+Basados en el repo https://github.com/gbti-network/nextjs-google-drive-directory
